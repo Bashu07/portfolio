@@ -18,6 +18,7 @@ const Skills = () => {
         "HTML5",
         "CSS3",
         "JavaScript",
+        "TypeScript",
         "React JS",
         "Tailwind CSS",
         "React Hooks & Context API",
@@ -32,6 +33,7 @@ const Skills = () => {
         "Node.js",
         "Express.js",
         "MongoDB",
+        "Postgress SQL",
         "Mongoose ORM",
         "RESTful API Development",
         "Authentication & Authorization (JWT)",
@@ -45,6 +47,7 @@ const Skills = () => {
       skills: [
         "Git & GitHub",
         "Postman",
+        "Docker and container",
         "Vercel Deployment",
         "Clerk Authentication",
         "Cloudinary",
